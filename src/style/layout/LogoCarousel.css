@@ -1,0 +1,29 @@
+.logo-section {
+  width: 100%;
+  overflow: hidden;
+  padding: 4rem 0;
+  background-color: white;
+}
+
+.logo-track {
+  display: flex;
+  gap: 6rem;
+  align-items: center;
+  padding: 0 2rem;
+}
+
+.logo-item {
+  width: 150px;
+  height: 75px;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.7;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.logo-item:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+  transform: scale(1.05);
+}

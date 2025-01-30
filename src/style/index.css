@@ -1,0 +1,32 @@
+:root {
+    --nav-footer-bg: hsl(60, 3.3%, 17.8%);
+    --purple-gradient: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+    font-family: Open Sans;
+    color: white;
+    background-color: #1C1D25;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: var(--bg-color);
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0;
+}
+
+main {
+    margin-top: 80px; /* Added to prevent content from hiding under nav */
+    padding: 0;
+    flex: 1;
+}

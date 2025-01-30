@@ -1,0 +1,18 @@
+/* App.css */
+#root {
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  main {
+    min-height: 100vh;
+    padding: 60px 0;
+    margin-top: 60px;
+  }
+  
+  .content-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
