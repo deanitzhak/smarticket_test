@@ -43,3 +43,5 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+.Identif
+*:Zone.Identifier
