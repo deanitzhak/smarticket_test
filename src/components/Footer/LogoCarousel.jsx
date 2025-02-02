@@ -4,14 +4,14 @@ import '../../style/layout/LogoCarousel.css';
 
 const LogoCarousel = () => {
   const logos = [
-    '/src/assets/images/logos/Frame 2 (1).png',
-    '/src/assets/images/logos/Frame 2 (2).png',
-    '/src/assets/images/logos/Frame 2 (3).png',
-    '/src/assets/images/logos/Frame 2 (4).png',
-    '/src/assets/images/logos/Frame 2 (5).png',
-    '/src/assets/images/logos/Frame 2 (6).png',
-    '/src/assets/images/logos/Frame 2 (7).png',
-    '/src/assets/images/logos/Frame 2.png'
+    'https://support.smarticket.co.il/uploads/upld679f2734720aa726686757.png',
+    'https://support.smarticket.co.il/uploads/upld679f271dc5efc893585391.png',
+    'https://support.smarticket.co.il/uploads/upld679f27093d2c5382194732.png',
+    'https://support.smarticket.co.il/uploads/upld679f26f058929846642339.png',
+    'https://support.smarticket.co.il/uploads/upld679f26dded557444335843.png',
+    'https://support.smarticket.co.il/uploads/upld679f26caaad6c814162983.png',
+    'https://support.smarticket.co.il/uploads/upld679f26b326481796916702.png',
+    'https://support.smarticket.co.il/uploads/upld679f269ee343c788943420.png'
   ];
 
   return (

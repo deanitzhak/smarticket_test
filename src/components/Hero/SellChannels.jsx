@@ -75,7 +75,7 @@ const SellChannelsSection = () => {
             whileHover={{ y: -10, transition: { duration: 0.2 } }}
           >
             <div className="card-content">
-              <img src="../../src/assets/images//models/iPhones.png" alt="Mobile app" />
+              <img src="https://support.smarticket.co.il/uploads/upld679f27f58aacf493191211.png" alt="Mobile app" />
               <h3>Online E-Ticket Platform</h3>
               <p>The most powerful tool on the market for online tickets, Offer your customers a simple and fast ticket purchase process. With an interface developed especially for Israelis, your audience is guaranteed an intuitive and effortless purchase.</p>
             </div>
@@ -87,7 +87,7 @@ const SellChannelsSection = () => {
             whileHover={{ y: -10, transition: { duration: 0.2 } }}
           >
             <div className="card-content">
-              <img src="../../src/assets/images//models/iMac.png" alt="Desktop platform" />
+              <img src="https://support.smarticket.co.il/uploads/upld679f27d113363410249471.png" alt="Desktop platform" />
               <h3>A dedicated solution for your industry</h3>
               <p>From theaters, cultural performances, museums and visitor centers, to sporting events, attractions and leisure, to festivals</p>
             </div>
@@ -100,7 +100,7 @@ const SellChannelsSection = () => {
             
           >
             <div className="card-content">
-              <img src="../../src/assets/images/models/MacBook.png" alt="Web platform" />
+              <img src="https://support.smarticket.co.il/uploads/upld679f282aabf51823514424.png" alt="Web platform" />
               <h3>It's easy and simple.</h3>
               <p>Offer your customers a simple and fast ticket purchasing process.</p>
             </div>

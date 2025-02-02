@@ -65,7 +65,7 @@ const HeroSection = () => {
               </motion.h2>
             </motion.div>
             <motion.div className='Phone-container' variants={itemVariants}>
-              <img className="phone-model" src="../../src/assets/images/Iphone.png" alt="phone" />
+              <img className="phone-model" src="https://support.smarticket.co.il/uploads/upld679f23a4e1337437737200.png" alt="phone" />
             </motion.div>
             <motion.div className='Description-container' variants={itemVariants}>
               <p>Ticketing made easy, intelligent, and impactful – for businesses and their customers</p>
